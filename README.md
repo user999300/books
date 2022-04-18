@@ -1,7 +1,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+To use application you should create .development.env file with all variables needed to setup database connection and start server on some port
 
 ## Installation
 
